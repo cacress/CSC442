@@ -33,4 +33,8 @@ Together, we synthesized these angles into a larger view of how streaming metada
 
 ├── reports/ --> Final paper, poster, and presentation slides
 
+├── meeting_notes --> Includes link to meeting notes for our weekly in-person research meetings
+
+├── project_timeline --> Keeps a record of our project timeline and deadlines
+
 └── README.md --> You're here!
