@@ -21,7 +21,7 @@ This collaborative project had three focused research paths:
 - **Rithik Kulkarni** – Analyzed text-based metrics (titles & descriptions) and their correlation with popularity  
 - **Benjamin Uy** – Investigated the impact of production countries and related features on show/movie success  
 
-Together, we synthesized these angles into a larger view of how streaming metadata reflects audience engagement and critical reception.
+Together, we combined our subgoals to create a broader understanding of how streaming metadata reflects audience engagement and critical reception.
 
 ---
 
