@@ -1,11 +1,36 @@
-# CSC442 Project Team 12
-Colby Cress, Rithik Kulkarni, Benjamin Uy
+# 🎬 Exploration of Television Streaming Metadata
 
-Modified dataset: Movies and TV shows from Netflix and Hulu in mid-2022.
+Welcome to our repository! This project takes a deep dive into the metadata behind television and film content on Netflix and Hulu, uncovering patterns in how features like genre, title, description, and production origin relate to a show or movie’s reception.
 
-Main goal: Explore and find a relationship between a movie's/show's features (e.g., genres, production countries) and its reception (quantified by average rating scores, popularity on TMDB, and votes on IMDB). 
+---
 
-Sub goal(s): 
-* Colby - Delve into the combination of genres for a show and their effect on its reception.
-* Rithik - Investigate text metrics of films through their title and description and look at their correlation with reception. 
-* Benjamin - Explore the correlation between a movie's/show's production countries (and its related features) and its reception.
+## 🧠 Project Overview
+
+### **What makes a show popular or critically acclaimed?**  
+In this project, we set out to explore whether features of streaming content — such as genres, text metadata, and production countries — have a measurable correlation with how well a movie or show is received.
+
+We worked with two datasets (Netflix and Hulu, mid-2022) and presented our findings through reports, a research poster, and presentations. The goal was to build a multi-faceted understanding of content metadata and its connection to audience ratings, TMDB popularity, and IMDB votes.
+
+---
+
+## 📊 Research Questions by Contributor
+
+This collaborative project had three focused research paths:
+
+- **Colby Cress** – Explored how genre combinations relate to content reception  
+- **Rithik Kulkarni** – Analyzed text-based metrics (titles & descriptions) and their correlation with popularity  
+- **Benjamin Uy** – Investigated the impact of production countries and related features on show/movie success  
+
+Together, we synthesized these angles into a larger view of how streaming metadata reflects audience engagement and critical reception.
+
+---
+
+## 📂 Repository Structure
+
+├── datasets/ --> Cleaned datasets (Netflix, Hulu)
+
+├── notebooks/ --> Jupyter notebooks for preprocessing, cleaning, and each researcher’s exploration
+
+├── reports/ --> Final paper, poster, and presentation slides
+
+└── README.md --> You're here!
